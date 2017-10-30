@@ -1,3 +1,3 @@
-# simple_social_clone
+# Django project
 
 Simple social clone project using Django
